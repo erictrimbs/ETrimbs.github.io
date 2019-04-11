@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -294,6 +293,3 @@ defaults:
       comments: # true
       share: true
       related: true
-=======
-theme: jekyll-theme-cayman
->>>>>>> refs/remotes/origin/master
