@@ -108,9 +108,10 @@ analytics:
 author:
   name             : "Eric Trimble"
   avatar           : /assets/images/bio-photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a rising Junior completing my BS degree in computer science at the University of 
-  Massachusetts, Amherst. My interests include ML/DL, tracking high-tech startups, history, and philosophy. I 
-  am currently interning at Fidelity Investments, Merrimack, as a software engineer."
+  bio              : |
+   Rising Junior, computer science at the UMass Amherst.
+   ML/DL, high-tech startups, history, philosophy.
+   SE Intern @Fidelity Investments, Merrimack NH.
   location         : "Acton, MA"
   email            : eric.trimo@gmail.com
   links:
@@ -120,44 +121,40 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://linkedin.com/in/eric-t-02ab2813b/"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "/"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    #- label: "Website"
+     # icon: "fas fa-fw fa-link"
+     # url: "/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+     # url: "https://twitter.com/"
+    #- label: "Facebook"
+     # icon: "fab fa-fw fa-facebook-square"
+     # url: "https://facebook.com/eric.trimble2"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
+     # url: "https://github.com/ETrimbs/"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+     # url: "https://instagram.com/erictrimbs/"
+
+# Site Footer
+footer:
+  links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/eric.trimble2"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://linkedin.com/in/eric-t-02ab2813b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ETrimbs/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/erictrimbs/"
-
-# Site Footer
-footer:
-  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
 
 # Reading Files
 include:
